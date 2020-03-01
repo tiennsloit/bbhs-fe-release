@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://bonbonhomestay.com/</loc>
+  <lastmod>2020-02-29T17:28:42+00:00</lastmod>
+</url>
+<url>
+  <loc>https://bonbonhomestay.com/videos</loc>
+  <lastmod>2020-02-29T17:28:42+00:00</lastmod>
+</url>
+<url>
+  <loc>https://bonbonhomestay.com/location</loc>
+  <lastmod>2020-02-29T17:28:42+00:00</lastmod>
+</url>
+<url>
+  <loc>https://bonbonhomestay.com/gallery</loc>
+  <image:image>
+      <image:loc>https://bonbonhomestay.com/media/images/4316646560_IMG_5453.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bonbonhomestay.com/media/images/4316646560_IMG_5458_1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bonbonhomestay.com/media/images/4316646560_IMG_5459.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bonbonhomestay.com/media/images/4316646560_IMG_5648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bonbonhomestay.com/media/images/4316646560_IMG_5666.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bonbonhomestay.com/media/images/4316646560_IMG_5362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://bonbonhomestay.com/media/images/4316646560_IMG_5380_1.jpg</image:loc>
+    </image:image>
+  <lastmod>2020-02-29T17:28:42+00:00</lastmod>
+</url>
+<url>
+  <loc>https://bonbonhomestay.com/home</loc>
+  <lastmod>2020-02-29T17:28:42+00:00</lastmod>
+</url>
+</urlset>
