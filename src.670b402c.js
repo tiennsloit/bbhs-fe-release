@@ -59402,7 +59402,19 @@ function Layout(_ref) {
     menuConfig: _MenuConfig.default,
     layoutConfig: _LayoutConfig.default,
     htmlClassService: htmlClassService
-  }, /*#__PURE__*/_react.default.createElement(_HeaderMobile.default, null), /*#__PURE__*/_react.default.createElement("div", {
+  }, /*#__PURE__*/_react.default.createElement("div", {
+    style: {
+      padding: '10px 30px',
+      color: 'rgba(29, 22, 19, .8)',
+      fontWeight: '500',
+      backgroundImage: 'linear-gradient(to right, rgba(255, 154, 158, 0.8), rgba(250, 208, 196, 0.8))',
+      top: 0,
+      position: 'sticky',
+      border: '2px solid rgba(255, 154, 158, 1)',
+      zIndex: 9999,
+      textAlign: 'center'
+    }
+  }, "Our listings are temporary for lease in 2 years. When the due days will come, we will give you update here. Thanks for reaching out to us and we are sorry for any inconvenient", ' '), /*#__PURE__*/_react.default.createElement(_HeaderMobile.default, null), /*#__PURE__*/_react.default.createElement("div", {
     className: "kt-grid kt-grid--hor kt-grid--root"
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "kt-grid__item kt-grid__item--fluid kt-grid kt-grid--ver kt-page"
@@ -71274,7 +71286,7 @@ var GoogleLocation = function GoogleLocation(_a) {
 };
 exports.GoogleLocation = GoogleLocation;
 var _default = (0, _googleMapsReact.GoogleApiWrapper)({
-  apiKey: 'AIzaSyDUcHL7CFunJJgB-2kgjB02LxAQz4Hx3Qk'
+  apiKey: 'AIzaSyAcXxC0OBiJFKyUDVQ5OxerxW6dUDKMwjY'
 })(GoogleLocation);
 exports.default = _default;
 },{"google-maps-react":"VDCP","react":"n8MK","react-bootstrap":"lvE3","react-intl":"Q73k","../locales/translater":"QknX","./location.scss":"rDCW","../spinners/spinner-white":"YkdW"}],"Exjo":[function(require,module,exports) {
