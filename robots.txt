@@ -6,4 +6,4 @@ Disallow: /media/facilities/
 User-agent: *
 Allow: /
 
-Sitemap: https://bonbonhomestay.com/sitemap.xml
+Sitemap: https://bonbonhomestay.online/sitemap.xml
