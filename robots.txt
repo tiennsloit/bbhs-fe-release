@@ -1,9 +1,0 @@
-# Group 1
-User-agent: Googlebot
-Disallow: /media/facilities/
-
-# Group 1
-User-agent: *
-Allow: /
-
-Sitemap: https://bonbonhomestay.online/sitemap.xml
